@@ -1,5 +1,5 @@
 # Book List - RecyclerView
--In this project, the elements of a static array are displayed on the recyclerview.
+In this project, the elements of a static array are displayed on the recyclerview.
 
 ## Project Features
 - View Binding
