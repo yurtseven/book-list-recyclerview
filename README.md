@@ -1,7 +1,10 @@
-# recyclerview
+# Book List - RecyclerView
 
-View Binding
-RecyclerView
+## Project Features
+- View Binding
+- RecyclerView
+
+## Screens
 
 <table>
   <tr>
